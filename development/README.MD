@@ -16,4 +16,4 @@ The portal will be built in a series of phases ultimately forming a suite of too
 
 Version | Date | Title| Purpose / Description
 :-------|:-----|:------|:-----------
-[1.00](development/ph_1-00) | 6/10/2021 | Authorization | To establish a baseline for authorization principles including the establishment of basic access rights and user privileges.
+[1.00](./ph_1-00) | 6/10/2021 | Authorization | To establish a baseline for authorization principles including the establishment of basic access rights and user privileges.
