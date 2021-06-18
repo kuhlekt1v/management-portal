@@ -9,3 +9,8 @@
 ## UML Class Diagram
 
 <div align="center"><img src="./diagrams/auth-diagram_v1.png" alt="Phase authorization class diagram" width="700"></div>
+
+## User Interface
+<div align="center"><img src="./ui/Management-Portal-01.JPG" alt="Admin tables and workstation management UI samples." width="900"></div>
+<div align="center"><img src="./ui/Management-Portal-02.JPG" alt="User management UI samples." width="900"></div>
+<div align="center"><img src="./ui/Management-Portal-03.JPG" alt="Custom query creator UI samples." width="900"></div>
