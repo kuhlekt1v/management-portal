@@ -86,7 +86,7 @@ Notes and sample code for the development of a C# based manufacturing management
    1. In `Package Manager Console` type the following commands:
    
         ```
-        Add-Migrations InitialState
+        Add-Migration InitialState
         Update-Database
         Add-Migration SeedDatabase
         ```
