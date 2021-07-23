@@ -1,0 +1,20 @@
+:root {
+	--blue-primary: #306887;
+	--blue-accent: #648ea5;
+	--blue-light: #cbd9e1;
+
+	--grey-primary: #506568;
+	--grey-accent: #8d9d9f;
+	--grey-light: #e8edf0;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+.fnt-xbold {
+	font-weight: 800;
+}
