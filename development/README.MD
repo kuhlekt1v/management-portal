@@ -1,12 +1,12 @@
 # Mangement Portal
 
-*Initial thoughts and notes detailing the development of a full-stack manufacturing management portal.*
+_Initial thoughts and notes detailing the development of a full-stack manufacturing management portal._
 
 ## Core Technologies
 
-* **Front-End:** React.JS (Version 17.0.2)
-* **Back-End:** .NET Core 5.0
-* **Database:** Microsoft SQL Server
+- **Front-End:** React.JS (Version 17.0.2)
+- **Back-End:** .NET Core 5.0
+- **Database:** Microsoft SQL Server
 
 ## Overview
 
@@ -14,6 +14,7 @@ The portal will be built in a series of phases ultimately forming a suite of too
 
 ## Project Phases
 
-Version | Date | Title| Purpose / Description
-:-------|:-----|:------|:-----------
-[1.00](./ph_1-00) | 6/10/2021 | Authorization | To establish a baseline for authorization principles including the establishment of basic access rights and user privileges.
+| Version           | Date      | Title               | Purpose / Description                                                                                                        |
+| :---------------- | :-------- | :------------------ | :--------------------------------------------------------------------------------------------------------------------------- |
+| [1.00](./ph_1-00) | 6/10/2021 | 1-00 Authorization  | To establish a baseline for authorization principles including the establishment of basic access rights and user privileges. |
+| [2.00](./ph_2-00) | 7/23/2021 | 2-00 User Interface | To develop an intuitive and visually appealing user interface.                                                               |
